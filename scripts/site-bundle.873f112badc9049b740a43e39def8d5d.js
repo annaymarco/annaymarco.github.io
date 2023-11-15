@@ -8405,7 +8405,7 @@
                 a(92338), a(35666);
                 var e = (0, a(73020).a)(window, "Static.SQUARESPACE_CONTEXT.templateScriptsRootUrl"),
                     t = "scripts/";
-                "localhost" === window.location.hostname ? (a.p = window.location.origin + "/") : e && e.endsWith(t) && (a.p = e.slice(0, -t.length));
+                1 ? (a.p = window.location.origin + "/") : e && e.endsWith(t) && (a.p = e.slice(0, -t.length));
                 a(86382),
                     (function () {
                         if ("function" == typeof window.CustomEvent) return !1;
