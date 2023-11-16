@@ -1369,7 +1369,7 @@
             };
         })(),
         (function () {
-            c.p = "https://assets.squarespace.com/universal/scripts-compressed/";
+            c.p = "/assets.squarespace.com/universal/scripts-compressed/";
         })(),
         (function () {
             var e = function (b, d, f, i) {
